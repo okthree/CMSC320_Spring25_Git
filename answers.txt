@@ -9,3 +9,8 @@ Answer: Data science can be applied in the finance field. Collecting data in ord
 Q3: What is the difference between Merging and Rebasing?
 
 Answer: Merging helps keep track of 2 different branches and does well with cinflicts and such. Rebasing moves commits from one branch to another essentially rewrtitting the commit history by creating new commits.
+
+Q4: What are you looking forward to this semester?
+
+Answer: Learning how to properly use git and all its features
+
